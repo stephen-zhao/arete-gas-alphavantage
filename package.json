@@ -1,0 +1,12 @@
+{
+  "name": "@zhaostephen/arete-gas-alphavantage",
+  "description": "Arete AlphaVantage API Adaptor for GAS",
+  "author": {
+    "name": "Stephen Zhao",
+    "email": "mail@zhaostephen.com",
+    "url": "https://zhaostephen.com"
+  },
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.14"
+  }
+}
